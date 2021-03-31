@@ -1,7 +1,7 @@
 {
   "name": "ln-book",
   "version": "1.0.0",
-  "description": "gitbook自动化构建",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
