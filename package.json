@@ -1,0 +1,24 @@
+{
+  "name": "ln-book",
+  "version": "1.0.0",
+  "description": "gitbook自动化构建",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasmynaa/ln-book.git"
+  },
+  "keywords": [],
+  "author": "lining",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jasmynaa/ln-book/issues"
+  },
+  "homepage": "https://github.com/Jasmynaa/ln-book#readme"
+}
