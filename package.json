@@ -1,8 +1,12 @@
 {
   "name": "ln-book",
   "version": "1.0.0",
-  "description": "",
+  "description": "gitbook自动化构建",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -16,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/Jasmynaa/ln-book/issues"
   },
-  "homepage": "https://github.com/Jasmynaa/ln-book#readme",
-  "devDependencies": {
-    "gitbook-cli": "^2.3.2"
-  },
+  "homepage": "https://github.com/Jasmynaa/ln-book#readme"
 }
